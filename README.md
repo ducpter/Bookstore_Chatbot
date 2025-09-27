@@ -24,7 +24,7 @@ Một chatbot đơn giản bằng tiếng Việt để tìm kiếm và đặt s�
 
 1. Clone repository và tạo môi trường ảo:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ducpter/Bookstore_Chatbot.git
 cd Bookstore_Chatbot
 python -m venv .venv
 ```
